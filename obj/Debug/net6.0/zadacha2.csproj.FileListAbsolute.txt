@@ -1,0 +1,15 @@
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/bin/Debug/net6.0/zadacha2
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/bin/Debug/net6.0/zadacha2.deps.json
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/bin/Debug/net6.0/zadacha2.runtimeconfig.json
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/bin/Debug/net6.0/zadacha2.dll
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/bin/Debug/net6.0/zadacha2.pdb
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/obj/Debug/net6.0/zadacha2.csproj.AssemblyReference.cache
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/obj/Debug/net6.0/zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/obj/Debug/net6.0/zadacha2.AssemblyInfoInputs.cache
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/obj/Debug/net6.0/zadacha2.AssemblyInfo.cs
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/obj/Debug/net6.0/zadacha2.csproj.CoreCompileInputs.cache
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/obj/Debug/net6.0/zadacha2.dll
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/obj/Debug/net6.0/refint/zadacha2.dll
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/obj/Debug/net6.0/zadacha2.pdb
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/obj/Debug/net6.0/zadacha2.genruntimeconfig.cache
+/Users/vladimirkidanov/Desktop/GOLOVOLOMKI/zadacha2/obj/Debug/net6.0/ref/zadacha2.dll
